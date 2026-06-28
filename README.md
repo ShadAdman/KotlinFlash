@@ -1,4 +1,4 @@
-# KotlinFalsh Anki Decks
+# KotlinFalsh Anki Cards
 
 This repository contains importable Anki flashcards for my LinkedIn **KotlinFlash series**.
 
