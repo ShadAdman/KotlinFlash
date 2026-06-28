@@ -1,0 +1,1 @@
+What is Conflating in Kotlin?,In Flow & Channels, Conflating keeps only the latest item and discards older ones.Assigning the same value won’t cause recomposing.,Kotlin flow channel
