@@ -1,0 +1,10 @@
+What is Doze mode?,
+
+Power Saving mode that activates when the device has been idle for a while. Conditions:
+Screen is off, Device is not charging
+Device has been stationary
+User hasn't interacted with it
+
+Detect Doze using the PowerManager API,
+
+Kotlin android
