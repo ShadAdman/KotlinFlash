@@ -1,0 +1,5 @@
+What is Delegation?,
+
+Let’s a class hand off (or delegate) the implementation of an interface or property to another object instead of writing the logic itself. Known as the by keyword.,
+
+kotlin 
