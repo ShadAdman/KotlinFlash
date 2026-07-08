@@ -1,0 +1,14 @@
+Flow vs StateFlow,
+
+Flow (Cold):
+Like watching a movie
+Needs an active listener
+Listeners has their own pause/playback
+
+StateFlow (Hot):
+Like listening to radio
+No need for a listener
+New listeners get only  what’s broadcasting now
+
+,
+kotlin flow stateflow coroutines
