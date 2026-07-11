@@ -1,0 +1,9 @@
+What is mutex?,
+
+Mutex avoids race condition problems by allowing access to only one coroutine at a time. Others must wait for current job to finish. 
+
+mutex.withLock {counter++}
+
+,
+
+kotlin coroutines
